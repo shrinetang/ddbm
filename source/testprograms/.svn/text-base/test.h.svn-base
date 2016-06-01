@@ -1,0 +1,2 @@
+void readfun();
+void writefun();
